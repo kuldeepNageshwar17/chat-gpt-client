@@ -1,3 +1,7 @@
+# This repo is a submodule of chatgpt-playground repo for Client UI  [chatgpt-playground](https://github.com/kuldeepNageshwar17/chatgpt-playground)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
