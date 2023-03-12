@@ -44,6 +44,7 @@ function App() {
   };
   return (
     <div className="App">
+      {/*comement block test*/}
       <aside className="sidemenu">
         <div className="side-menu-button" onClick={clearChatLog}>
           <span>+</span>New Chat
